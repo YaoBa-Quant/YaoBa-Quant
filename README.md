@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 你好，我是瑶爸
 
-<!--
-**YaoBa-Quant/YaoBa-Quant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的量化实验室！我专注于开发简单、有效、反人性的量化交易策略。
 
-Here are some ideas to get you started:
+### 🚀 我的核心项目
+- **[动量轮动策略看板]**：过去 14 年回测仅一年微亏的实战策略系统。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 加入社群与获取完整源码
+为了保证策略的有效性并提供更好的指导，完整版源码及最新底层数据，在内部交流群中免费开源分享。
+
+👇 **欢迎添加微信，备注“量化”，带你进群：**
+- **微信号**：`Code_Mvp`
+- <img width="300" height="300" alt="qrcode" src="https://github.com/user-attachments/assets/34bda36c-4cb9-4d9a-a806-9432191f00c2" />
+
